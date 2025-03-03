@@ -1,3 +1,8 @@
+## Train cars
+```bash
+$ python -m modules.training.train --training_type xfeat_synthetic --synthetic_root_path cars --ckpt_save_path train-results
+```
+
 ## XFeat: Accelerated Features for Lightweight Image Matching
 [Guilherme Potje](https://guipotje.github.io/) · [Felipe Cadar](https://eucadar.com/) · [Andre Araujo](https://andrefaraujo.github.io/) · [Renato Martins](https://renatojmsdh.github.io/) · [Erickson R. Nascimento](https://homepages.dcc.ufmg.br/~erickson/)
 
